@@ -49,7 +49,8 @@ p {
 }
 @media (max-width: 800px) {
   .thisis-title {
-    font-size: 5px;
+    font-size: 6px;
+    padding: 5px 0px 0px 0px;
   }
   .university {
     font-size: 5px;
