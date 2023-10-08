@@ -30,7 +30,7 @@ p {
   margin: 0;
   font-size: 10px;
   text-align: right;
-  padding: 5px 0px 0px 0px;
+  padding: 10px 0px 0px 0px;
 }
 .case-study {
   font-size: 10px;
@@ -49,12 +49,12 @@ p {
 }
 @media (max-width: 800px) {
   img {
-    max-width: 80px;
+    max-width: 90px;
   }
   .thisis-title {
-    font-size: 8px;
+    font-size: 5;
   }
   .university {
-    font-size: 8px;
+    font-size: 5px;
   }
 }
