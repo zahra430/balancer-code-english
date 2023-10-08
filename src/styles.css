@@ -53,6 +53,7 @@ p {
   }
   .university {
     font-size: 5px;
+    line-height: 1;
   }
   .name {
     font-size: 4px;
