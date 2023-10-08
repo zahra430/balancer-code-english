@@ -44,3 +44,8 @@ p {
   margin: 0 auto;
   padding: 0px 5px 5px 5px;
 }
+@media (max-width: 576px) {
+  img {
+    width: 40px;
+  }
+}
