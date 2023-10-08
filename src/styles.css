@@ -48,13 +48,13 @@ p {
   padding: 0px 5px 5px 5px;
 }
 @media (max-width: 800px) {
-  img {
-    max-width: 90px;
-  }
   .thisis-title {
     font-size: 5px;
   }
   .university {
+    font-size: 5px;
+  }
+  .name {
     font-size: 5px;
   }
 }
